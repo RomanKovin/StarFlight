@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace StarFlight
 {
     /// <summary>
-    /// Тип космического объекта
+    /// Тип космического объекта (Ковин)
     /// </summary>
     public enum ObjectType 
     { 
