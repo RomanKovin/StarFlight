@@ -50,7 +50,7 @@
             Icon = (Icon)resources.GetObject("$this.Icon");
             MinimumSize = new Size(200, 200);
             Name = "MainForm";
-            Text = "Star Flight";
+            Text = "Star Flight - Version2";
             toolTip1.SetToolTip(this, "Курсорные клавиши - направление\r\nПробел - старт/стоп\r\nС - вид из кабины");
             Paint += MainForm_Paint;
             KeyDown += MainForm_KeyDown;
