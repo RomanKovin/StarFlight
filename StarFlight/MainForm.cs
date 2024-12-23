@@ -29,7 +29,7 @@
         }
         Point3D[] stars; //массив звезд
         Brush brush = new SolidBrush(Color.White); // для варианта отрисовки зведы в виде белого круга
-        int starCount = 100; // число звезд
+        int starCount = 1000; // число звезд
         double maxSize = 1000; // максимальная по модулю координата XYZ звезды в 3D-пространстве
         double dist = 1000; // расстояние до "наблюдателя"
         double step = 10; // шаг движения
